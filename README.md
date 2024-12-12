@@ -2,6 +2,11 @@
   <img decoding="async" src="https://github.com/QAquiceno14/QAquiceno14/blob/main/QA.png" width="2000"/>
 </div>
 
+<h1>
+  Hola soy Noelia. ¡Encantada de conocerte!
+  <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
 
 👩‍💻 Sobre mí :
 
