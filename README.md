@@ -1,7 +1,4 @@
-## Hi there 👋 
-
-
-Soy
+## Hi there 👋 Soy 
 
 
 <div id="header" align="center">
