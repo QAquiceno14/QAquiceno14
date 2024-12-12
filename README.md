@@ -1,8 +1,8 @@
-
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/QAquiceno14/QAquiceno14/blob/main/QA.png" width="2000"/>
 </div>
 
+👩‍💻 Sobre mí :
 
 - 🔭 Recientemente completé un bootcamp en Calidad de Software (QA), donde no solo aprendí sobre pruebas manuales y automatizadas, sino que también tuve la oportunidad de hacer proyecto práctico
 
@@ -14,6 +14,11 @@
 
 - 👯 Estoy buscando activamente una oportunidad laboral que me permita adquirir la experiencia necesaria para desenvolverme con confianza en este campo.
 
-- 📫 Estoy ansiosa por aplicar mis conocimientos y aprender de profesionales en un entorno real.
+- ❤️ Estoy ansiosa por aplicar mis conocimientos y aprender de profesionales en un entorno real.
+
+
+
+
+
 
 - [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
