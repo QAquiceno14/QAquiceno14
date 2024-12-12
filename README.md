@@ -28,7 +28,7 @@
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>  </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
 
- ### :hammer_and_wrench: Lenguajes y herramientas :
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
  
 
