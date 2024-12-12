@@ -16,11 +16,17 @@
 
 - ❤️ Estoy ansiosa por aplicar mis conocimientos y aprender de profesionales en un entorno real.
 
+- 
+
 📫 ¿Quieres contactarme? [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+
+
 
 🛠️ Lenguajes y herramientas :
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>  </a>
  <img decoding="async" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="excel"/>
+
+ 
  
     
