@@ -1,5 +1,3 @@
-## Hi there 👋 Soy 
-
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/QAquiceno14/QAquiceno14/blob/main/QA.png" width="1500"/>
