@@ -42,7 +42,7 @@
   <img decoding="async" src="https://img.shields.io/badge/Postman-217346AC?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman"/>  </a> 
    <img decoding="async" src="https://img.shields.io/badge/Android Studio-FF0000?style=for-the-badge&logo=Android Studio&logoColor=white" alt="Android Studio"/>  </a> 
    <img decoding="async" src="https://img.shields.io/badge/Jira-3776AB?style=for-the-badge&logo=Jira&logoColor=white" alt="Jira"/>  </a> 
-   <img decoding="async" src="https://img.shields.io/badge/Selenium-1056CD?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>  </a>
+   <img decoding="async" src="https://img.shields.io/badge/Selenium-#808080?style=for-the-badge&logo=Selenium&logoColor=white" alt="Selenium"/>  </a>
   
 <h1>
 
