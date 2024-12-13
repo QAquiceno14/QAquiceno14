@@ -52,11 +52,7 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
 
-<h1>
 
-</h1>
- 
-### :hammer_and_wrench: Lenguajes
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>
