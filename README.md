@@ -28,7 +28,7 @@
   
 
 📫 ¿Quieres contactarme? 
-[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/QAquiceno14/)
 
 <h1>
 
@@ -50,10 +50,10 @@
 
 🔥 MIS ESTADISTICAS
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=noelianav91&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QAquiceno14=dark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noelianav91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QAquiceno14=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <h1>
 
