@@ -50,6 +50,10 @@
 
 🔥 MIS ESTADISTICAS
 
+<div id="header" align="center">
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QAquiceno14=dark&background=000000)](https://git.io/streak-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=QAquiceno14=dark&background=000000)](https://git.io/streak-stats)
 
 
